@@ -1,0 +1,1 @@
+    s('rm -rf myrepo')
